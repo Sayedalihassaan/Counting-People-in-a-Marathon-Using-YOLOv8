@@ -115,4 +115,4 @@ cvzone for visualization utilities.
 The open-source community for providing invaluable tools and resources.
 
 Contact
-For questions or issues, please open an issue on GitHub or contact your-email@example.com.
+For questions or issues, please open an issue on GitHub or contact saiedhassaan2@gmail.com
